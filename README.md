@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyScript
 - 👀 I’m interested in learn programing
-- 🌱 I’m currently learning C++ OOP and MemoryProcess
+- 🌱 I’m currently learning C++ OOP and MemoryProcess and Python3
 - 💞️ I’m looking to collaborate on (Not ready)
 - 📫 My Email: tienphat3968@gmail.com
 
